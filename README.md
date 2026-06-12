@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4B0082,25:6A0DAD,50:7B68EE,75:8A2BE2,100:4169E1&text=Kartik%20Agarwal&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=28\&duration=3500\&pause=1000\&color=8A2BE2\&center=true\&vCenter=true\&width=900\&lines=AI%2FML+Engineer;Data+Analyst;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Software+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&weight=600\&size=28\&duration=3500\&pause=1000\&color=8A2BE2\&center=true\&vCenter=true\&width=900\&lines=AI%2FML+Engineer;Data+Analyst;Data+Science;Open+Source+Contributor;Building+Scalable+Software+Solutions)](https://git.io/typing-svg)
 
 <br>
 
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/">
+<a href="https://www.linkedin.com/in/kartik-agarwall/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -52,7 +52,6 @@ My engineering approach combines analytical thinking, scalable software architec
 * Software Engineering
 * Artificial Intelligence & Machine Learning
 * Data Analytics & Business Intelligence
-* Full Stack Development
 * Product Engineering
 * Open Source Contribution
 * Cloud & Scalable Systems
@@ -73,19 +72,19 @@ My engineering approach combines analytical thinking, scalable software architec
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,sql,cpp"/>
+<img src="https://skillicons.dev/icons?i=python,java"/>
 </p>
 
 ## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 </p>
 
 ## Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flask,nodejs,postgres,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=flask,postgres,mysql,sqlite"/>
 </p>
 
 ## Cloud, DevOps & Tooling
@@ -127,7 +126,7 @@ Interactive Power BI dashboard designed to analyze workforce trends, employee at
 | Performance | Interactive KPI-driven dashboard      |
 | Security    | Business-ready reporting architecture |
 | Impact      | Improved workforce decision-making    |
-| Repository  | https://github.com/Kartikagarwal453   |
+| Repository  | https://github.com/Kartikagarwal453/HR_Analytics_Dashboard   |
 
 ### Highlights
 
@@ -154,7 +153,7 @@ Machine Learning application developed to predict diabetes risk using clinical p
 | Performance | 81.77% Accuracy                     |
 | Security    | Input Validation & Error Handling   |
 | Impact      | Faster risk assessment              |
-| Repository  | https://github.com/Kartikagarwal453 |
+| Repository  | https://github.com/Kartikagarwal453/Diabetes_Prediction_Model |
 
 ### Highlights
 
@@ -181,7 +180,7 @@ Comprehensive business intelligence project focused on pricing trends, room popu
 | Performance | Optimized Data Processing                  |
 | Security    | Data Cleaning & Validation                 |
 | Impact      | Actionable Market Insights                 |
-| Repository  | https://github.com/Kartikagarwal453        |
+| Repository  | https://github.com/Kartikagarwal453/Airbnb_DataAnalysis        |
 
 ### Highlights
 
@@ -236,17 +235,11 @@ Developing end-to-end analytics and machine learning solutions with emphasis on 
 
 # Certifications
 
-## AWS
-
-![AWS](https://img.shields.io/badge/AWS-Learning_Path-232F3E?style=for-the-badge\&logo=amazonaws)
 
 ## Oracle
 
 ![Oracle](https://img.shields.io/badge/Oracle-Database_Fundamentals-F80000?style=for-the-badge\&logo=oracle)
 
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-6A0DAD?style=for-the-badge)
 
 ## Cisco
 
@@ -272,17 +265,11 @@ Developing end-to-end analytics and machine learning solutions with emphasis on 
 <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding_Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
 
 <a href="https://www.hackerrank.com">
 <img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
-<a href="https://www.codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Competitive_Coding-5B4638?style=for-the-badge"/>
-</a>
 
 </div>
 
@@ -322,13 +309,7 @@ Developing end-to-end analytics and machine learning solutions with emphasis on 
 
 ---
 
-# Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Kartikagarwal453/Kartikagarwal453/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
 
 ---
 
@@ -344,7 +325,6 @@ Learning:
 Building:
   - AI-Powered Applications
   - Analytics Dashboards
-  - Full Stack Projects
   - Open Source Contributions
 
 Exploring:
